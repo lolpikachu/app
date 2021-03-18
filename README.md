@@ -13,3 +13,4 @@ bot() function gets intent from the user. If it can find a response by intent it
 
 
 get_intent() function returns response. To calculate an accurate response was used [Levenshtein edit distance algorithm](https://en.wikipedia.org/wiki/Edit_distance).
+https://youtu.be/VqPIDRlK-TA?t=7415
