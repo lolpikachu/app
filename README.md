@@ -12,4 +12,4 @@ In chat_bot.py is a logic of chatbot.
 bot() function gets intent from the user. If it can find a response by intent it returns intent. If it can't it returns failure phrase.☠☠☠
 
 
-get_intent() function returns response. To calculate an accurate response was used Levenshtein edit distance algorithm(https://en.wikipedia.org/wiki/Edit_distance).
+get_intent() function returns response. To calculate an accurate response was used Levenshtein edit distance [algorithm]https://en.wikipedia.org/wiki/Edit_distance.
