@@ -13,4 +13,11 @@ bot() function gets intent from the user. If it can find a response by intent it
 
 
 get_intent() function returns response. To calculate an accurate response was used [Levenshtein edit distance algorithm](https://en.wikipedia.org/wiki/Edit_distance).
+
+Algorithm implementd with NLTK library
+
+  pip install nltk
+
+nltk.metrics.distance.edit_distance
+https://www.nltk.org/_modules/nltk/metrics/distance.html#edit_distance
 https://youtu.be/VqPIDRlK-TA?t=7415
