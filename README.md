@@ -1,5 +1,6 @@
-# chatbot
+# Chatbot
 
+This chatbot was implemented with [Levenshtein edit distance algorithm](https://en.wikipedia.org/wiki/Edit_distance).
 
 In BOT_CONFIG.py is a dataset.  It is organized into a dictionary that has two items: **intents** and **failure phrases**.
 
